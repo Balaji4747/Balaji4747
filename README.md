@@ -1,9 +1,9 @@
 <div align="center">
   <!-- Dynamic Header with Cloud Theme -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=DevOps%20%26%20Cloud%20Engineer&fontSize=60&fontAlignY=35&animation=twinkling&desc=AWS%20Solutions%20Architect%20%7C%20Kubernetes%20Expert%20%7C%20CI%2FCD%20Specialist&descSize=25&descAlignY=55" alt="Header Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Balaji%20Wagh&fontSize=90&fontAlignY=35&animation=twinkling&desc=DevOps%20Engineer%20|%20AWS%20Specialist&descSize=25&descAlignY=60" />
 
   <!-- Multi-line Typing Animation with Professional Highlights -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=800&color=00D8FF&background=0D111700&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%91%8B+Hi%2C+I'm+Balaji+-+DevOps+Engineer;%F0%9F%9A%80+3%2B+Years+%7C+AWS+Certified+Solutions+Architect;%E2%9A%A1+Kubernetes+%7C+Terraform+%7C+CI%2FCD+Pipeline+Expert;%F0%9F%8E%AF+80%25+Faster+Deployments+%7C+99.9%25+Uptime;%F0%9F%92%A1+Automating+Cloud+Infrastructure+at+Scale" alt="Dynamic Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=800&color=00D8FF&background=0D111700&center=true&vCenter=true&multiline=true&width=900&height=220&lines=%F0%9F%91%8B+Hi%2C+I'm+Balaji+-+DevOps+Engineer;%F0%9F%9A%80+3%2B+Years+%7C+AWS+Certified+Solutions+Architect;%E2%9A%A1+Kubernetes+%7C+Terraform+%7C+CI%2FCD+Pipeline+Expert;%F0%9F%8E%AF+80%25+Faster+Deployments+%7C+99.9%25+Uptime;%F0%9F%92%A1+Automating+Cloud+Infrastructure+at+Scale" alt="Dynamic Intro" />
 
   <!-- Professional Badges Row -->
   <p>
