@@ -123,7 +123,7 @@ Currently pursuing advanced DevOps certifications to excel as a modern cloud-nat
 ### 💡 Philosophy & Current Focus
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&color=FF6B6B&center=true&width=900&lines=💭+%22Automation+is+the+key+to+scalable+cloud%22;🚀+%22Resilience+and+security+drive+business+success%22;🎯+%22Learn%2C+automate%2C+optimize%2C+repeat!%22;💡+%22Choose+tools+that+empower+teams%22" alt="Philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&color=FF6B6B&center=true&width=900&lines=+%22Automation+is+the+key+to+scalable+cloud%22;+%22Resilience+and+security+drive+business+success%22;+%22Learn%2C+automate%2C+optimize%2C+repeat!%22;+%22Choose+tools+that+empower+teams%22" alt="Philosophy" />
   <br><br>
   <table>
     <tr>
