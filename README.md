@@ -103,12 +103,15 @@ Currently pursuing advanced DevOps certifications to excel as a modern cloud-nat
 
 ### 🌐 Connect with Me
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&color=58A6FF&center=true&width=800&lines=+Professional+Networking;+Technical+Writing;+Direct+Communication;+DevOps+Discussions" alt="Connect Types" />
-  <br><br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaji-wagh-devops-eng/)
-  
-</div>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/balaji-wagh-devops-eng/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
