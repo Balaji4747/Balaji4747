@@ -152,17 +152,6 @@ Currently pursuing advanced DevOps certifications to excel as a modern cloud-nat
 
 ---
 
-<!-- 😄 Fun Zone: Crazy Stuff -->
-<div align="center">
-  <h3>😄 DevOps Humor Zone</h3>
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-  <br>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120" alt="Crazy Automation" />
-  <br>
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="120" alt="Cloud Fun" />
-</div>
-
----
 
 <div align="center">
   <h3>🤝 Open to Opportunities</h3>
