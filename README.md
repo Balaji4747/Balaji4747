@@ -136,7 +136,7 @@ Currently pursuing advanced DevOps certifications to excel as a modern cloud-nat
       </td>
       <td align="center" width="25%">
         <h4>📚 Learning</h4>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&color=FFD93D&width=200&lines=Ansible;DevOps+Best+Practices;Cost+Optimization" alt="Learning" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&color=FFD93D&width=200&lines=Ansible;DevOps+Best+Practices;Cost+Optimization&link=" alt="Learning" />
       </td>
       <td align="center" width="25%">
         <h4>🤝 Contributing</h4>
