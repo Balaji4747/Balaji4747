@@ -363,13 +363,6 @@
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=65&desc=Let's%20automate%20the%20future%20together%20%F0%9F%9A%80&descSize=16&descAlignY=90&animation=fadeIn" alt="Footer Animation" />
-  
-  <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balaji4747/Balaji4747/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balaji4747/Balaji4747/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Balaji4747/Balaji4747/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <!-- SEO Keywords Section (Hidden but crawlable) -->
