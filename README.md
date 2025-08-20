@@ -111,8 +111,13 @@ Currently pursuing advanced DevOps certifications to excel as a modern cloud-nat
   <a href="https://www.linkedin.com/in/balaji-wagh-devops-eng/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://github.com/Balaji4747">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:balaji.wtcs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
-
 ---
 
 ### 💡 Philosophy & Current Focus
