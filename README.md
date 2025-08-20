@@ -1,166 +1,106 @@
+# 👋 Balaji Wagh | DevOps & Cloud Automation Engineer
+
 <div align="center">
-  <!-- Animated Header: Cloud Automation Theme -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Cloud%20Automation%20Engineer&fontSize=55&fontAlignY=40&animation=twinkling&desc=AWS%20%7C%20Kubernetes%20%7C%20DevOps%20%7C%20CI%2FCD&descSize=20&descAlignY=70" alt="Header" />
-
-  <!-- Typing Animation: Professional Summary -->
- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=500&color=00D8FF&background=0D111700&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%F0%9F%91%8B+Welcome+to+my+Cloud+Automation+Hub;%F0%9F%9A%80+AWS+%7C+Kubernetes+%7C+DevOps+Engineer;%E2%9A%A1+Delivering+Resilient+Infrastructure;%F0%9F%8E%AF+3%2B+Years+of+Cloud+Innovation;%F0%9F%92%A1+80%2525+Faster+Provisioning+%7C+30%2525+Downtime+Reduction" alt="Intro Typing" />
-
-
-  <!-- Animated Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+3%2B+Years+Experience;AWS+%7C+Kubernetes+%7C+CI%2FCD+Specialist;Infrastructure+Automation+Expert" alt="Typing Animation" />
 </div>
 
-<!-- 👋 About Me -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-  About Me
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-</h2>
+## 🚀 Professional Summary
 
-<p align="center">
-<b>AWS & Kubernetes-driven Automation Engineer</b> with <b>3 years</b> experience delivering resilient cloud infrastructure, automating CI/CD pipelines, and optimizing deployment performance.<br>
-Cut provisioning times by <b>80%</b>, reduced downtime by <b>30%</b>, and improved customer satisfaction through scalable, secure solutions.<br>
-Currently pursuing advanced DevOps certifications to excel as a modern cloud-native engineer.<br>
-</p>
+**Experienced DevOps Engineer** specializing in **AWS cloud infrastructure**, **Kubernetes orchestration**, and **CI/CD automation**. Proven track record of reducing deployment times by **80%** and system downtime by **30%** through innovative automation solutions. Currently advancing expertise in cloud-native technologies and Infrastructure as Code.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,jenkins,githubactions,gitlab,python,bash,linux,prometheus,grafana,ansible,mysql,mongodb,dynamodb&theme=dark&perline=8" alt="Tech Stack" />
-  <br>
-  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform%20%7C%20AWS%20CloudFormation-623CE4?style=for-the-badge" alt="IaC" />
-  <img src="https://img.shields.io/badge/DevOps%20Practices-CI%2FCD%20%7C%20SRE%20%7C%20Cost%20Optimization-00BFAE?style=for-the-badge" alt="DevOps Practices" />
-</div>
 
----
+### Cloud Platforms & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-### 🚀 Projects
+### CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🛡️ Kubernetes Cluster Automation</h3>
-        <img src="https://img.shields.io/badge/AWS%20EKS-232F3E?style=for-the-badge&logo=amazon-eks&logoColor=white" />
-        <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-        <br>
-        <span>Automated multi-environment cluster deployment on AWS, reducing provisioning time by 80% and boosting reliability.</span>
-      </td>
-      <td align="center" width="50%">
-        <h3>📊 Real-Time Monitoring Suite</h3>
-        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-        <br>
-        <span>Integrated Prometheus & Grafana for real-time monitoring and alerting, reducing MTTR and improving system health.</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🔄 CI/CD Pipeline Optimization</h3>
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-        <br>
-        <span>Managed seamless application/database deployments with Jenkins and GitHub Actions, enabling faster, error-free releases.</span>
-      </td>
-      <td align="center" width="50%">
-        <h3>🗄️ Secure Database Automation</h3>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-        <br>
-        <span>Strengthened compliance and data integrity through automated security and robust backup strategies.</span>
-      </td>
-    </tr>
-  </table>
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Monitoring & Databases
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🏗️ Key Projects
+
+### 🔧 Infrastructure Automation Suite
+**Technologies:** AWS EKS, Terraform, Jenkins  
+**Impact:** Reduced cluster provisioning time by 80%, enabling faster development cycles and improved team productivity.
+
+### 📊 Cloud Monitoring & Observability Platform
+**Technologies:** Prometheus, Grafana, AWS CloudWatch  
+**Impact:** Implemented comprehensive monitoring reducing MTTR by 60% and preventing critical incidents.
+
+### 🚀 Multi-Environment CI/CD Pipeline
+**Technologies:** GitHub Actions, Jenkins, Docker, Kubernetes  
+**Impact:** Automated deployment processes across dev/staging/prod environments with zero-downtime deployments.
+
+### 🔒 Secure Database Infrastructure
+**Technologies:** MongoDB, MySQL, AWS RDS, Automated Backups  
+**Impact:** Enhanced data security and compliance while reducing manual backup tasks by 90%.
+
+---
+
+## 🏅 Certifications & Learning
+
+- **AWS Certified Solutions Architect – Associate** (2024)
+- **AWS Certified Cloud Practitioner** (2023)
+- **Amazon EKS Auto Mode Specialist**
+- **Linux Systems Administration for Cloud & DevOps**
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji4747&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Balaji4747&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji4747&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Balaji4747&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" alt="GitHub Trophies" />
-  <img src="https://komarev.com/ghpvc/?username=PixenTech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/PixenTech?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/PixenTech?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0e75b6" alt="Stars" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balaji4747&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji4747&theme=github-dark-blue&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji4747&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
 ---
 
-### 🏅 Certifications
+## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Amazon%20EKS%20Auto%20Mode-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white" alt="Amazon EKS Auto Mode" />
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/AWS%20Module%20for%20Cloud%20%26%20DevOps-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Module for Cloud & DevOps" />
-  <img src="https://img.shields.io/badge/Linux%20Module%20for%20Cloud%20%26%20DevOps-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Module for Cloud & DevOps" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balaji-wagh-devops-eng/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balaji.wtcs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balaji4747)
+
 </div>
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&color=58A6FF&center=true&width=800&lines=+Professional+Networking;+Technical+Writing;+Direct+Communication;+DevOps+Discussions" alt="Connect Types" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/balaji-wagh-devops-eng/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Balaji4747">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:balaji.wtcs@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
----
-
-### 💡 Philosophy & Current Focus
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&color=FF6B6B&center=true&width=900&lines=%F0%9F%92%AD+%22Automation+is+the+key+to+scalable+cloud%22;%F0%9F%9A%80+%22Resilience+and+security+drive+business+success%22;%F0%9F%8E%AF+%22Learn%2C+automate%2C+optimize%2C+repeat!%22;%F0%9F%92%A1+%22Choose+tools+that+empower+teams%22" alt="Philosophy" />
 
+**💡 "Automation is not just about efficiency—it's about enabling teams to focus on innovation"**
 
-  <br><br>
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <h4>🔬 Exploring</h4>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&color=4ECDC4&width=200&lines=Advanced+Kubernetes;Service+Mesh;Cloud+Native+Tech" alt="Exploring" />
-      </td>
-      <td align="center" width="25%">
-        <h4>📚 Learning</h4>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&color=FFD93D&width=200&lines=Ansible;DevOps+Best+Practices;Cost+Optimization&link=" alt="Learning" />
-      </td>
-      <td align="center" width="25%">
-        <h4>🤝 Contributing</h4>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&color=6BCF7F&width=200&lines=Open+Source;Cloud+Community;Knowledge+Sharing" alt="Contributing" />
-      </td>
-      <td align="center" width="25%">
-        <h4>🎯 Building</h4>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&color=FF6B6B&width=200&lines=Scalable+Infrastructure;Next-Gen+DevOps+Solutions" alt="Building" />
-      </td>
-    </tr>
-  </table>
-</div>
+*Open to exciting DevOps opportunities and collaborative projects!*
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=Balaji4747&color=2196F3&style=for-the-badge)
 
-
-<div align="center">
-  <h3>🤝 Open to Opportunities</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&color=58A6FF&center=true&width=700&lines=Let's+collaborate+on+cloud+automation!;Open+to+exciting+DevOps+projects+and+discussions!" alt="CTA" />
-  <br><br>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Handshake" />
-</div>
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontAlignY=65&desc=Let's%20automate%20the%20future%20together%20🚀&descSize=15&descAlignY=50&descAlign=center&animation=twinkling" alt="Footer" />
 </div>
