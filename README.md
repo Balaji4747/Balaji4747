@@ -3,7 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Cloud%20Automation%20Engineer&fontSize=55&fontAlignY=40&animation=twinkling&desc=AWS%20%7C%20Kubernetes%20%7C%20DevOps%20%7C%20CI%2FCD&descSize=20&descAlignY=70" alt="Header" />
 
   <!-- Typing Animation: Professional Summary -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=500&color=00D8FF&background=0D111700&center=true&vCenter=true&multiline=true&width=800&height=80&lines=+Welcome+to+my+Cloud+Automation+Hub;+AWS+%7C+Kubernetes+%7C+DevOps+Engineer;+Delivering+Resilient+Infrastructure;+3%2B+Years+of+Cloud+Innovation;+80%25+Faster+Provisioning+%7C+30%25+Downtime+Reduction" alt="Intro Typing" />
+ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=500&color=00D8FF&background=0D111700&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%F0%9F%91%8B+Welcome+to+my+Cloud+Automation+Hub;%F0%9F%9A%80+AWS+%7C+Kubernetes+%7C+DevOps+Engineer;%E2%9A%A1+Delivering+Resilient+Infrastructure;%F0%9F%8E%AF+3%2B+Years+of+Cloud+Innovation;%F0%9F%92%A1+80%2525+Faster+Provisioning+%7C+30%2525+Downtime+Reduction" alt="Intro Typing" />
+
 
   <!-- Animated Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
