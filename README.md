@@ -79,10 +79,10 @@ Currently pursuing advanced DevOps certifications to excel as a modern cloud-nat
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PixenTech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PixenTech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixenTech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=PixenTech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji4747&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Balaji4747&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji4747&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Balaji4747&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" alt="GitHub Trophies" />
   <img src="https://komarev.com/ghpvc/?username=PixenTech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/PixenTech?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
   <img src="https://img.shields.io/github/stars/PixenTech?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0e75b6" alt="Stars" />
